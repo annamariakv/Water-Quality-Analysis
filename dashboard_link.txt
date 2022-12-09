@@ -1,0 +1,11 @@
+link to dashboard:
+
+https://annamariakv.shinyapps.io/waterquality/
+
+link to code:
+
+app.r:
+https://github.com/annamariakv/Water-Quality-Analysis/blob/main/app.R
+
+global:
+https://github.com/annamariakv/Water-Quality-Analysis/blob/main/global.R
